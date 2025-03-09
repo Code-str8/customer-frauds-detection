@@ -1,0 +1,19 @@
+# Project Emojis
+🔍 - Search/Detection
+⚡ - Electricity/Power
+📊 - Data/Analytics
+🤖 - Machine Learning/AI
+🛠️ - Installation/Tools
+🚀 - Usage/Launch
+📝 - Documentation
+📈 - Results/Performance
+⚠️ - Challenges/Warnings
+🔮 - Future Work
+🤝 - Contributing
+📜 - License
+🏗️ - Architecture/Structure
+💾 - Dataset
+🔄 - API
+✨ - Features
+⚙️ - Settings/Configuration
+📋 - List/Table of Contents 
