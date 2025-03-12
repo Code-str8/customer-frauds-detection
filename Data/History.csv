@@ -1,0 +1,4 @@
+counter_number,account_age_days,new_index,old_index,consumption_level_1,counter_coefficient,client_catg,invoice_year,creation_year,creation_month,prediction,probability,timestamp
+0,0,0,0,0.0,0.0,0,2000,1900,1,0,11.2,2025-03-12 22:30:52.652805
+0,0,0,0,0.0,0.0,0,2000,1900,1,0,11.2,2025-03-12 22:49:18.112812
+0,0,0,0,0.0,0.0,0,2000,1900,1,0,11.2,2025-03-12 23:38:48.256012

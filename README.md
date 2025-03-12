@@ -8,6 +8,7 @@ This project addresses a fraud detection challenge for STEG (Tunisian Company of
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
+  - [Streamlit App](#streamlit-app)
   - [API Usage](#api-usage)
   - [Model Training](#model-training)
 - [API Documentation](#api-documentation)
@@ -35,6 +36,57 @@ pip install -r requirements.txt
 ```
 
 ## 🚀 Usage
+
+### 💫 Streamlit App
+
+We've developed an interactive Streamlit application that provides a user-friendly interface for fraud detection:
+
+1. Start the Streamlit app:
+   ```bash
+   streamlit run 1_Welcome.py
+   ```
+
+2. Login credentials:
+   - Username: admin
+   - Password: Admin01
+
+The app includes several features:
+
+#### 🏠 Welcome Page
+![Welcome Page](images/app%201.PNG)
+A welcoming interface introducing the fraud detection system.
+
+#### 📚 Data Explorer
+![Data Explorer](images/app%202.PNG)
+Explore and analyze the dataset with interactive visualizations.
+
+#### 📊 Dashboard
+![Dashboard Overview](images/app%203.PNG)
+Interactive dashboards showing key metrics and patterns:
+- Distribution of consumption patterns
+- Client categories analysis
+- Correlation matrices
+- Time-based trends
+
+![Dashboard KPIs](images/app%204.PNG)
+Key Performance Indicators and metrics tracking.
+
+#### 🔮 Prediction Interface
+![Prediction Form](images/app%205.PNG)
+Easy-to-use form for making fraud predictions:
+- Input transaction details
+- Choose between models
+- Get instant predictions
+
+![Prediction Results](images/app%206.PNG)
+Detailed prediction results with confidence scores.
+
+#### ⏳ History Tracking
+![Prediction History](images/app%207.PNG)
+Track and analyze prediction history:
+- View all past predictions
+- Analyze trends
+- Export results
 
 ### 🔄 API Usage
 
