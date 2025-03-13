@@ -69,16 +69,17 @@ Explore and analyze the dataset with interactive visualizations.
 #### 🔮 Prediction Interface
 ![Prediction Form](images/app%208.PNG)
 ![Prediction Form](images/app%209.PNG)
+![Prediction Form](images/app%2010.PNG)
 Easy-to-use form for making fraud predictions:
 - Input transaction details
 - Choose between models
 - Get instant predictions
 
-![Prediction Results](images/app%2010.PNG)
+![Prediction Results](images/app%2011.PNG)
 Detailed prediction results with confidence scores.
 
 #### ⏳ History Tracking
-![Prediction History](images/app%2011.PNG)
+
 ![Prediction History](images/app%2012.PNG)
 Track and analyze prediction history:
 - View all past predictions
@@ -195,6 +196,14 @@ The stacked model, combining XGBoost, Extra Trees, and Random Forest, achieved t
 - **Hyperparameter Tuning** ⚙️: Limited by computational resources, which could have improved model robustness.
 - **High Variance** 📊: Models performed well on training data but showed lower performance on testing data.
 - **Class Imbalance** ⚖️: Addressed through resampling techniques to ensure balanced training data.
+
+  ### 🎉Deployment <a name="deployment"></a>
+ 
+- Streamlit: [Streamlit app](https://churn-prediction-ml-appgi-cacbbyzjm6uzakkyu2xgdk.streamlit.app/History)
+
+  ### Article <a name="article"></a>
+ 
+- Medium article: [Article](https://churn-prediction-ml-appgi-cacbbyzjm6uzakkyu2xgdk.streamlit.app/History)
 
 ## 🔮 Future Work
 
