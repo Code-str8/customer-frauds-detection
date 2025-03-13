@@ -203,7 +203,7 @@ The stacked model, combining XGBoost, Extra Trees, and Random Forest, achieved t
 
   ### Article <a name="article"></a>
  
-- Medium article: [Article](https://churn-prediction-ml-appgi-cacbbyzjm6uzakkyu2xgdk.streamlit.app/History)
+- Medium article: [Article](https://medium.com/@Codestr8/building-a-fraud-detection-system-for-utility-companies-a-complete-guide-969d9cc0a151)
 
 ## 🔮 Future Work
 
