@@ -199,7 +199,7 @@ The stacked model, combining XGBoost, Extra Trees, and Random Forest, achieved t
 
   ### 🎉Deployment <a name="deployment"></a>
  
-- Streamlit: [Streamlit app](https://churn-prediction-ml-appgi-cacbbyzjm6uzakkyu2xgdk.streamlit.app/History)
+- Streamlit: [Streamlit app](https://customer-frauds-detection.streamlit.app/)
 
   ### Article <a name="article"></a>
  
