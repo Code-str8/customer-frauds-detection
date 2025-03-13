@@ -54,40 +54,36 @@ The app includes several features:
 
 #### 🏠 Welcome Page
 ![Welcome Page](images/app%201.PNG)
+![Welcome Page](images/app%202.PNG)
+![Welcome Page](images/app%203.PNG)
 A welcoming interface introducing the fraud detection system.
 
 #### 📚 Data Explorer
-![Data Explorer](images/app%202.PNG)
+![Data Explorer](images/app%204.PNG)
+![Data Explorer](images/app%205.PNG)
+![Data Explorer](images/app%206.PNG)
+![Data Explorer](images/app%207.PNG)
 Explore and analyze the dataset with interactive visualizations.
 
-#### 📊 Dashboard
-![Dashboard Overview](images/app%203.PNG)
-Interactive dashboards showing key metrics and patterns:
-- Distribution of consumption patterns
-- Client categories analysis
-- Correlation matrices
-- Time-based trends
-
-![Dashboard KPIs](images/app%204.PNG)
-Key Performance Indicators and metrics tracking.
 
 #### 🔮 Prediction Interface
-![Prediction Form](images/app%205.PNG)
+![Prediction Form](images/app%208.PNG)
+![Prediction Form](images/app%209.PNG)
 Easy-to-use form for making fraud predictions:
 - Input transaction details
 - Choose between models
 - Get instant predictions
 
-![Prediction Results](images/app%206.PNG)
+![Prediction Results](images/app%2010.PNG)
 Detailed prediction results with confidence scores.
 
 #### ⏳ History Tracking
-![Prediction History](images/app%207.PNG)
+![Prediction History](images/app%2011.PNG)
+![Prediction History](images/app%2012.PNG)
 Track and analyze prediction history:
 - View all past predictions
 - Analyze trends
 - Export results
-
 ### 🔄 API Usage
 
 1. Clone the repository:
