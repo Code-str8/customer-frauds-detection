@@ -205,6 +205,9 @@ The stacked model, combining XGBoost, Extra Trees, and Random Forest, achieved t
  
 - Medium article: [Article](https://medium.com/@Codestr8/building-a-fraud-detection-system-for-utility-companies-a-complete-guide-969d9cc0a151)
 
+- Power BI: [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODM4OWE0ZTMtN2ZkMC00YTJhLTg1ZTYtZmNjZjdhYWQwNjIwIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9)
+
+
 ## 🔮 Future Work
 
 - ✅ **API Development**: Implemented a FastAPI-based REST API for real-time fraud detection.
